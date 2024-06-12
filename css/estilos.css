@@ -36,25 +36,25 @@
 }
 
 .hija1{
-    background:url(foto1.jpg);
+    background:url(foto1.jpg.jpeg);
     background-size:cover;
 }
 
 .hija2{
-    background:url(foto2.jpg);
+    background:url(foto2.jpg.jpeg);
     background-size:cover;
 }
 .hija3{
-    background:url(foto3.jpg);
+    background:url(foto3.jpg.jpeg);
     background-size:cover;
 }
 .hija4{
-    background:url(foto4.jpg);
+    background:url(foto4.jpg.jpeg);
     background-size:cover;
 }
 
 .imprimir{
-    background:orange url("printer.png") no-repeat 20px 5px;
+    background:orange url("printer.png.jpeg") no-repeat 20px 5px;
     background-size:40px 40px;
     border-radius:1em;
     box-shadow:0.1em 0.2em 0.3em  rgba(0,0,0,0.5);
